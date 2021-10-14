@@ -10,8 +10,9 @@
 - Lua
 - C++
 - C#
+- C
 
 ## 📝 Contact
 
-- ![](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram: @xxx20h
+- ![telegram_avatar](https://icons.iconarchive.com/icons/froyoshark/enkel/16/Telegram-icon.png) Telegram: @xxx20h
 - ![discord avatar](https://cdn.discordapp.com/attachments/842679961117523989/898142698026983454/unknown.png) Discord: 20h#1998 
