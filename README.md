@@ -1,6 +1,6 @@
 # 20h 
 
-![avatar](https://cdn.discordapp.com/avatars/516241634833334325/131649d9454be592d5effd25f68de7ca.png?size=256)
+![avatar](https://avatars.githubusercontent.com/u/83044650?s=400&u=861c7ab884ae99a36f6e4bd31bb24b2cae9b649d&v=4)
 
 ## ✍️ Working
 - Own lua HUD
